@@ -1,0 +1,21 @@
+id,nombre,IdPropietario,power,ataque
+2,Superman,1,1000,100
+14,Hulk,2,1000,100
+7,Shazam,1,900,90
+19,She-Hulk,2,900,90
+8,Green Lantern,1,800,80
+13,Wolverine,2,800,80
+15,Thor,2,700,70
+4,Aquaman,1,700,70
+18,Deadpool,2,600,60
+3,Wonder Woman,1,600,60
+11,Spider-Man,2,500,50
+6,Flash,1,500,50
+1,Batman,1,400,40
+17,Capitan America,2,400,40
+5,Green Arrow,1,300,30
+12,Iron Man,2,300,30
+9,Robin,1,200,20
+20,Captain Marvel,2,200,20
+10,Batgirl,1,100,10
+16,Black Panther,2,100,10
